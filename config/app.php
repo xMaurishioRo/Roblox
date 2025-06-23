@@ -1,10 +1,14 @@
+
+
+
+
 <?php
 
 return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name
+    | Application Naaasdasdasd
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application, which will be used when the
@@ -125,3 +129,7 @@ return [
     ],
 
 ];
+
+
+
+
